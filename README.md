@@ -66,8 +66,8 @@ Here's a high-level view of the flow:
 - **K9s** for cluster monitoring
 
 ## 📸 Screenshot
+<img width="899" height="349" alt="Screenshot 2025-07-15 at 19 49 55" src="https://github.com/user-attachments/assets/8fcedbd7-c2c2-4ae2-804e-a993edcaa788" />
 
-> _(Add a screenshot from K9s here showing the pods/services running)_
 
 ## 🧪 How to Run Locally
 
