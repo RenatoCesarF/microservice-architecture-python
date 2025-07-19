@@ -14,6 +14,9 @@ Here's a high-level view of the flow:
 4. The **Converter Service** listens to this queue, retrieves the video, converts it to audio, saves it to MongoDB, and sends a new message indicating that the audio is ready.
 5. The **Notification Service** listens for completed audio conversion messages and sends an email to the user with a download link.
 
+<img  alt="Architecture" src="https://github.com/user-attachments/assets/0eb14afe-66ed-4916-909c-bdf979bf6572" />
+
+
 ## 🧩 Microservices
 
 ### 🌐 Gateway Service
